@@ -10,7 +10,7 @@ module.exports = {
     CACHE_NAMESPACE: process.env.CACHE_NAMESPACE,
     CACHE_AUTO_PURGE: process.env.CACHE_AUTO_PURGE,
     CACHE_STORE: process.env.CACHE_STORE,
-    CONFIG_PATH: process.env.CONFIG_PATH,
+    // CONFIG_PATH: process.env.CONFIG_PATH,
     DB_CLIENT: process.env.DB_CLIENT,
     EXTENSIONS_PATH: process.env.EXTENSIONS_PATH,
     NODE_ENV: process.env.NODE_ENV,
